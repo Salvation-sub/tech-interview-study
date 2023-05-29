@@ -7,5 +7,4 @@
 
 ## 📌 Algorithm
 
-- ### Network
-  - [DFS](https://github.com/Salvation-sub/tech-interview-study/blob/main/Algorithm/DFS.md)
+- [DFS](https://github.com/Salvation-sub/tech-interview-study/blob/main/Algorithm/DFS.md)
