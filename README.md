@@ -13,3 +13,5 @@
 ## 📌 Javascript
 
 - [Programming](https://github.com/Salvation-sub/tech-interview-study/blob/main/Javascript/Programming.md)
+- [DataType](https://github.com/Salvation-sub/tech-interview-study/blob/main/Javascript/DataType.md)
+- [ArrayObject](https://github.com/Salvation-sub/tech-interview-study/blob/main/Javascript/ArrayObject.md)
