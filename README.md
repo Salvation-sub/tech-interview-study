@@ -15,3 +15,6 @@
 - [Programming](https://github.com/Salvation-sub/tech-interview-study/blob/main/Javascript/Programming.md)
 - [DataType](https://github.com/Salvation-sub/tech-interview-study/blob/main/Javascript/DataType.md)
 - [ArrayObject](https://github.com/Salvation-sub/tech-interview-study/blob/main/Javascript/ArrayObject.md)
+- [DynamicTyping](https://github.com/Salvation-sub/tech-interview-study/blob/main/Javascript/DynamicTyping.md)
+- [Function](https://github.com/Salvation-sub/tech-interview-study/blob/main/Javascript/Function.md)
+- [Scope](https://github.com/Salvation-sub/tech-interview-study/blob/main/Javascript/Scope.md)
