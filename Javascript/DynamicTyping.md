@@ -16,8 +16,6 @@ console.log(b); // 100
 
 - Object의 데이터 자체는 별도의 메모리 공간(heap)에 저장되며, 변수에 할당 시 데이터에 대한 주소가 저장되기 때문에 자바스크립트 엔진이 변수가 가지고 있는 메모리 주소를 이용해서 변수의 값을 접근하게 된다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b37f9b4d-9246-42c0-86d9-ccea5c4946da/Untitled.png)
-
 ```jsx
 let myArr = [];
 let copyArr = myArr;
