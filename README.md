@@ -20,3 +20,8 @@
 - [Scope](https://github.com/Salvation-sub/tech-interview-study/blob/main/Javascript/Scope.md)
 - [Constructor](https://github.com/Salvation-sub/tech-interview-study/blob/main/Javascript/Constructor.md)
 - [FirstClassObject](https://github.com/Salvation-sub/tech-interview-study/blob/main/Javascript/FirstClassObject.md)
+
+## 📌 Data Structure
+
+- [Array](https://github.com/Salvation-sub/tech-interview-study/blob/main/Data%20Structure/Array.md)
+- [LinkedList](https://github.com/Salvation-sub/tech-interview-study/blob/main/Data%20Structure/LinkedList.md)
