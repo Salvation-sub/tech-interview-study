@@ -26,3 +26,4 @@
 - [Array](https://github.com/Salvation-sub/tech-interview-study/blob/main/Data%20Structure/Array.md)
 - [LinkedList](https://github.com/Salvation-sub/tech-interview-study/blob/main/Data%20Structure/LinkedList.md)
 - [Stack](https://github.com/Salvation-sub/tech-interview-study/blob/main/Data%20Structure/Stack.md)
+- [Queue](https://github.com/Salvation-sub/tech-interview-study/blob/main/Data%20Structure/Queue.md)
