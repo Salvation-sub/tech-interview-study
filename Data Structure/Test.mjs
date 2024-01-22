@@ -1,4 +1,31 @@
 import { LinkedList, Node } from "./LinkedList.mjs";
+import { Stack } from "./Stack.mjs";
+
+let stack = new Stack();
+
+console.log("==== 스택 첫번쨰 출력=====");
+stack.push(1);
+stack.push(2);
+stack.push(3);
+stack.push(4);
+console.log(stack.pop().data);
+console.log(stack.pop().data);
+console.log(stack.pop().data);
+console.log(stack.pop().data);
+
+console.log("=== 스택 두번째 출력===");
+stack.push(1);
+stack.push(2);
+stack.push(3);
+stack.push(4);
+console.log(stack.peek().data); // 4
+stack.pop();
+console.log(stack.peek().data); // 3
+console.log(`isEmpty: ${stack.isEmpty()}`); // false
+stack.pop();
+stack.pop();
+stack.pop();
+console.log(`isEmpty: ${stack.isEmpty()}`); // true
 
 let node1 = new Node(1);
 let node2 = new Node(2);
