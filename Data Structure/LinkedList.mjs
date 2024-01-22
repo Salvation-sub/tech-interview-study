@@ -100,7 +100,7 @@ class LinkedList {
   }
 
   // 인덱스 읽기
-  getNodeAt() {
+  getNodeAt(index) {
     if (index >= this.count || index < 0) {
       throw new Error("범위를 넘어 갔습니다.");
     }
